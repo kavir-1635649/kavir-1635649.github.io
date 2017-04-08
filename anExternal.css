@@ -1,0 +1,22 @@
+div.library {
+	background: url(https://s3-media4.fl.yelpcdn.com/bphoto/qZ3pY3A260KK-uSzp7HiNw/348s.jpg);
+	height: 348px;
+	width: 348px;
+	border: 20px solid black;
+}
+
+div.centeredText {
+	text-align: center;
+	position:relative;
+	top:155px;
+	color:white;
+	font:50px arial;
+}
+
+div.dottedLineBox {
+	width:100px;
+	height:50px;
+	padding:0px;
+	border:5px dotted black;
+
+}
