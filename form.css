@@ -1,8 +1,63 @@
 h2 {
-	color:gray;
+	color:white;
+	text-shadow: 1px 1px blue;
 	text-align: center;
 	font-weight: bold;
 	font-family: "Anton";
 	letter-spacing: 5px;
 	border: solid 2px black;
+	font-size: 40px;
+}
+
+legend {
+	font-family: "Dosis";
+	font-weight: bolder;
+	font-size: 30px;
+	letter-spacing: 3px;
+	color: white;
+	text-shadow: 1px 2px black;
+	border: inset 5px white;
+	margin-top: 10px;
+	margin-bottom: 15px;
+}
+
+label {
+	color:white;
+	letter-spacing: 1px;
+	font-family: "Dosis";
+	font-style: italic;
+	font-weight: bold;
+	text-shadow: 1px 1px red;
+}
+
+body {
+	background-image: url("pink_dust.png");
+	margin-left: 50px;
+	margin-right: 50px;
+	padding-bottom: 10px;
+	border: groove 20px white;
+}
+
+ul {
+	font-family: "Dosis";
+	font-size: 20px;
+	font-weight: lighter;
+	color: white;
+}
+
+#JobList ul {
+	list-style-type: upper-roman;
+}
+
+fieldset {
+	margin-bottom: 15px;
+}
+
+table {
+	color:white;
+	letter-spacing: 1px;
+	font-family: "Dosis";
+	font-style: italic;
+	font-weight: bold;
+	text-shadow: 1px 1px blue;
 }
